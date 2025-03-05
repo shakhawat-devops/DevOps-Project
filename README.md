@@ -309,16 +309,14 @@ I have deployed the chart after fixing it. The Statefulset application is deploy
 ### **Screenshots**
 
 
-```markdown
+es-pods:
 ![es-pods](./es-pods.png)
-```
 
-```markdown
+helm-list:
 ![helm-list](./helm-list.png)
-```
-```markdown
+
+Longhorn pods:
 ![long-horn-pods](./long-horn-pod.png)
-```
 
 ---
 
