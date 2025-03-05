@@ -310,14 +310,14 @@ I have deployed the chart after fixing it. The Statefulset application is deploy
 
 
 ```markdown
-![es-pods](es-pods.png)
+![es-pods](./es-pods.png)
 ```
 
 ```markdown
-![helm-list](helm-list.png)
+![helm-list](./helm-list.png)
 ```
 ```markdown
-![long-horn-pods](long-horn-pod.png)
+![long-horn-pods](./long-horn-pod.png)
 ```
 
 ---
